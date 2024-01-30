@@ -1,0 +1,26 @@
+h1 {color: red};
+
+.topnav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.topnav {
+    background-color:  greenyellow;
+}
+
+.topnav {
+    color: blue;
+    text-align: center;
+    padding: 12px 14px;
+    font-size: 30px;
+}
+
+.topnav a.hover {
+    background-color: darkmagenta;
+    color: white;
+}
+
+.topnav a.active {
+    background-color: antiquewhite;
+    color: black;
+}
