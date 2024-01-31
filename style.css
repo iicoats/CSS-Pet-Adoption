@@ -1,4 +1,4 @@
-h1 {color: red};
+h1 {color: blue};
 
 .topnav {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -11,8 +11,8 @@ h1 {color: red};
 .topnav {
     color: blue;
     text-align: center;
-    padding: 12px 14px;
-    font-size: 30px;
+    
+    font-size: 20px;
 }
 
 .topnav a.hover {
@@ -23,4 +23,8 @@ h1 {color: red};
 .topnav a.active {
     background-color: antiquewhite;
     color: black;
+}
+
+body {
+    background-color: lightblue;
 }
