@@ -16,7 +16,7 @@ h1 {color: red};
 }
 
 .topnav a.hover {
-    background-color: darkmagenta;
+    background-color: rgb(15, 8, 15);
     color: white;
 }
 
